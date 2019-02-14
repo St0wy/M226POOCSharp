@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFCheckSum", "WFCheckSum\WFCheckSum.csproj", "{1ED5DF57-15B3-4196-899B-836DB7D2F080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFCrashChecksum", "WFCrashChecksum\WFCrashChecksum.csproj", "{EA1351CE-3B85-46E9-965C-8F2197EDB7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED5DF57-15B3-4196-899B-836DB7D2F080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED5DF57-15B3-4196-899B-836DB7D2F080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED5DF57-15B3-4196-899B-836DB7D2F080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED5DF57-15B3-4196-899B-836DB7D2F080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1351CE-3B85-46E9-965C-8F2197EDB7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1351CE-3B85-46E9-965C-8F2197EDB7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1351CE-3B85-46E9-965C-8F2197EDB7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1351CE-3B85-46E9-965C-8F2197EDB7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E5576E-A088-40E1-B54B-B0D28BB72C30}
+	EndGlobalSection
+EndGlobal
