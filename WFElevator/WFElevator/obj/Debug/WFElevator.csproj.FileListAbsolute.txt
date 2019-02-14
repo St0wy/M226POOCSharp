@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFElevator\WFElevator\bin\Debug\WFElevator.exe.config
+E:\Programmation\CSharp\WFElevator\WFElevator\bin\Debug\WFElevator.exe
+E:\Programmation\CSharp\WFElevator\WFElevator\bin\Debug\WFElevator.pdb
+E:\Programmation\CSharp\WFElevator\WFElevator\obj\Debug\WFElevator.csprojAssemblyReference.cache
+E:\Programmation\CSharp\WFElevator\WFElevator\obj\Debug\WFElevator.FrmElevator.resources
+E:\Programmation\CSharp\WFElevator\WFElevator\obj\Debug\WFElevator.Properties.Resources.resources
+E:\Programmation\CSharp\WFElevator\WFElevator\obj\Debug\WFElevator.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFElevator\WFElevator\obj\Debug\WFElevator.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFElevator\WFElevator\obj\Debug\WFElevator.exe
+E:\Programmation\CSharp\WFElevator\WFElevator\obj\Debug\WFElevator.pdb

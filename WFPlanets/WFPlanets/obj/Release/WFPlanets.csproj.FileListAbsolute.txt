@@ -1,0 +1,9 @@
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\bin\Release\WFPlanets.exe.config
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\bin\Release\WFPlanets.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\bin\Release\WFPlanets.pdb
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\obj\Release\WFPlanets.frmPlanets.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\obj\Release\WFPlanets.Properties.Resources.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\obj\Release\WFPlanets.csproj.GenerateResource.Cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\obj\Release\WFPlanets.csproj.CoreCompileInputs.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\obj\Release\WFPlanets.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFPlanets\WFPlanets\obj\Release\WFPlanets.pdb

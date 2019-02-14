@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFCercle\WFCercle\bin\Debug\WFCercle.exe.config
+E:\Programmation\CSharp\WFCercle\WFCercle\bin\Debug\WFCercle.exe
+E:\Programmation\CSharp\WFCercle\WFCercle\bin\Debug\WFCercle.pdb
+E:\Programmation\CSharp\WFCercle\WFCercle\obj\Debug\WFCercle.csprojAssemblyReference.cache
+E:\Programmation\CSharp\WFCercle\WFCercle\obj\Debug\WFCercle.FrmCircle.resources
+E:\Programmation\CSharp\WFCercle\WFCercle\obj\Debug\WFCercle.Properties.Resources.resources
+E:\Programmation\CSharp\WFCercle\WFCercle\obj\Debug\WFCercle.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFCercle\WFCercle\obj\Debug\WFCercle.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFCercle\WFCercle\obj\Debug\WFCercle.exe
+E:\Programmation\CSharp\WFCercle\WFCercle\obj\Debug\WFCercle.pdb

@@ -1,0 +1,5 @@
+QuestionsAreUnique
+TwoPointsIfGoodAnswerAt1stTry
+OnePointsIfGoodAnswerAt2ndTry
+NoPointsIfWrong
+CanLoadFileAtStart

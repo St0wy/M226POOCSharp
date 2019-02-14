@@ -1,0 +1,10 @@
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\bin\Debug\WFCommande.exe.config
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\bin\Debug\WFCommande.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\bin\Debug\WFCommande.pdb
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\obj\Debug\WFCommande.csprojResolveAssemblyReference.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\obj\Debug\WFCommande.frmOrder.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\obj\Debug\WFCommande.Properties.Resources.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\obj\Debug\WFCommande.csproj.GenerateResource.Cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\obj\Debug\WFCommande.csproj.CoreCompileInputs.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\obj\Debug\WFCommande.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFCommande\WFCommande\obj\Debug\WFCommande.pdb

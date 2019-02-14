@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\bin\Debug\WFTicTacToe.exe.config
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\bin\Debug\WFTicTacToe.exe
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\bin\Debug\WFTicTacToe.pdb
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.csprojAssemblyReference.cache
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.frmTicTacToe.resources
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.Properties.Resources.resources
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.exe
+E:\Programmation\CSharp\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.pdb

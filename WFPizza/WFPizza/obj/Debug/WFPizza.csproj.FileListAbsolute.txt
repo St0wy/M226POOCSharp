@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFPizza\WFPizza\bin\Debug\WFPizza.exe.config
+E:\Programmation\CSharp\WFPizza\WFPizza\bin\Debug\WFPizza.exe
+E:\Programmation\CSharp\WFPizza\WFPizza\bin\Debug\WFPizza.pdb
+E:\Programmation\CSharp\WFPizza\WFPizza\obj\Debug\WFPizza.csprojAssemblyReference.cache
+E:\Programmation\CSharp\WFPizza\WFPizza\obj\Debug\WFPizza.FrmPizza.resources
+E:\Programmation\CSharp\WFPizza\WFPizza\obj\Debug\WFPizza.Properties.Resources.resources
+E:\Programmation\CSharp\WFPizza\WFPizza\obj\Debug\WFPizza.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFPizza\WFPizza\obj\Debug\WFPizza.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFPizza\WFPizza\obj\Debug\WFPizza.exe
+E:\Programmation\CSharp\WFPizza\WFPizza\obj\Debug\WFPizza.pdb

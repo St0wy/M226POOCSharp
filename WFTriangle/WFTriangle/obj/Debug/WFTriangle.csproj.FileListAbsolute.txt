@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFTriangle\WFTriangle\bin\Debug\WFTriangle.exe.config
+E:\Programmation\CSharp\WFTriangle\WFTriangle\bin\Debug\WFTriangle.exe
+E:\Programmation\CSharp\WFTriangle\WFTriangle\bin\Debug\WFTriangle.pdb
+E:\Programmation\CSharp\WFTriangle\WFTriangle\obj\Debug\WFTriangle.csprojAssemblyReference.cache
+E:\Programmation\CSharp\WFTriangle\WFTriangle\obj\Debug\WFTriangle.frmTriangle.resources
+E:\Programmation\CSharp\WFTriangle\WFTriangle\obj\Debug\WFTriangle.Properties.Resources.resources
+E:\Programmation\CSharp\WFTriangle\WFTriangle\obj\Debug\WFTriangle.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFTriangle\WFTriangle\obj\Debug\WFTriangle.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFTriangle\WFTriangle\obj\Debug\WFTriangle.exe
+E:\Programmation\CSharp\WFTriangle\WFTriangle\obj\Debug\WFTriangle.pdb

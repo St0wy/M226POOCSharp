@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\bin\Debug\WFVenteSki.exe.config
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\bin\Debug\WFVenteSki.exe
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\bin\Debug\WFVenteSki.pdb
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\obj\Debug\WFVenteSki.MainFrm.resources
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\obj\Debug\WFVenteSki.Properties.Resources.resources
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\obj\Debug\WFVenteSki.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\obj\Debug\WFVenteSki.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\obj\Debug\WFVenteSki.exe
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\obj\Debug\WFVenteSki.pdb
+E:\Programmation\CSharp\WFVenteSki\WFVenteSki\obj\Debug\WFVenteSki.csprojAssemblyReference.cache

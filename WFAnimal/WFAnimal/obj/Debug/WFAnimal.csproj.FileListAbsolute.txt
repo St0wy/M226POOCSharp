@@ -1,0 +1,9 @@
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\bin\Debug\WFAnimal.exe.config
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\bin\Debug\WFAnimal.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\bin\Debug\WFAnimal.pdb
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\obj\Debug\WFAnimal.frmAnimal.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\obj\Debug\WFAnimal.Properties.Resources.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\obj\Debug\WFAnimal.csproj.GenerateResource.Cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\obj\Debug\WFAnimal.csproj.CoreCompileInputs.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\obj\Debug\WFAnimal.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFAnimal\WFAnimal\obj\Debug\WFAnimal.pdb

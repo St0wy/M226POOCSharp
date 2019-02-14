@@ -1,0 +1,10 @@
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\bin\Debug\WFDactylo.exe.config
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\bin\Debug\WFDactylo.exe
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\bin\Debug\WFDactylo.pdb
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\obj\Debug\WFDactylo.csprojResolveAssemblyReference.cache
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\obj\Debug\WFDactylo.frmDactylo.resources
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\obj\Debug\WFDactylo.Properties.Resources.resources
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\obj\Debug\WFDactylo.csproj.GenerateResource.Cache
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\obj\Debug\WFDactylo.csproj.CoreCompileInputs.cache
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\obj\Debug\WFDactylo.exe
+C:\Users\HUBERF_INFO\Documents\Visual Studio 2017\Projects\WFDactylo\WFDactylo\obj\Debug\WFDactylo.pdb

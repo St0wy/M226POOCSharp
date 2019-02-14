@@ -1,0 +1,7 @@
+C:\Users\HUBERF_INFO\Desktop\CSharp\CSerpent\CSerpent\bin\Debug\CSerpent.exe.config
+C:\Users\HUBERF_INFO\Desktop\CSharp\CSerpent\CSerpent\bin\Debug\CSerpent.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\CSerpent\CSerpent\bin\Debug\CSerpent.pdb
+C:\Users\HUBERF_INFO\Desktop\CSharp\CSerpent\CSerpent\obj\Debug\CSerpent.csprojResolveAssemblyReference.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\CSerpent\CSerpent\obj\Debug\CSerpent.csproj.CoreCompileInputs.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\CSerpent\CSerpent\obj\Debug\CSerpent.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\CSerpent\CSerpent\obj\Debug\CSerpent.pdb

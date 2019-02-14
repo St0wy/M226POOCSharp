@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\bin\Debug\WFAventuriers.exe.config
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\bin\Debug\WFAventuriers.exe
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\bin\Debug\WFAventuriers.pdb
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\obj\Debug\WFAventuriers.csprojAssemblyReference.cache
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\obj\Debug\WFAventuriers.FrmAventuriers.resources
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\obj\Debug\WFAventuriers.Properties.Resources.resources
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\obj\Debug\WFAventuriers.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\obj\Debug\WFAventuriers.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\obj\Debug\WFAventuriers.exe
+E:\Programmation\CSharp\WFAventuriers\WFAventuriers\obj\Debug\WFAventuriers.pdb

@@ -1,0 +1,10 @@
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\bin\Debug\WFBombeLapin.exe.config
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\bin\Debug\WFBombeLapin.exe
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\bin\Debug\WFBombeLapin.pdb
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\obj\Debug\WFBombeLapin.csprojAssemblyReference.cache
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\obj\Debug\WFBombeLapin.FrmBomb.resources
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\obj\Debug\WFBombeLapin.Properties.Resources.resources
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\obj\Debug\WFBombeLapin.csproj.GenerateResource.cache
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\obj\Debug\WFBombeLapin.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\obj\Debug\WFBombeLapin.exe
+E:\Programmation\CSharp\WFBombeLapin\WFBombeLapin\obj\Debug\WFBombeLapin.pdb

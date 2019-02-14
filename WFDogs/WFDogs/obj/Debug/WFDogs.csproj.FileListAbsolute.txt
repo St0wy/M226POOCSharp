@@ -1,0 +1,10 @@
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\bin\Debug\WFDogs.exe.config
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\bin\Debug\WFDogs.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\bin\Debug\WFDogs.pdb
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\obj\Debug\WFDogs.csprojResolveAssemblyReference.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\obj\Debug\WFDogs.frmDogs.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\obj\Debug\WFDogs.Properties.Resources.resources
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\obj\Debug\WFDogs.csproj.GenerateResource.Cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\obj\Debug\WFDogs.csproj.CoreCompileInputs.cache
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\obj\Debug\WFDogs.exe
+C:\Users\HUBERF_INFO\Desktop\CSharp\WFDogs\WFDogs\obj\Debug\WFDogs.pdb
