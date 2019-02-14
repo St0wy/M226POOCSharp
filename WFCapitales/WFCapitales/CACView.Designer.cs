@@ -121,9 +121,9 @@
             // tsmAbout
             // 
             this.tsmAbout.Name = "tsmAbout";
-            this.tsmAbout.Size = new System.Drawing.Size(180, 22);
+            this.tsmAbout.Size = new System.Drawing.Size(122, 22);
             this.tsmAbout.Text = "À Propos";
-            this.tsmAbout.Click += new System.EventHandler(this.tsmAbout_Click);
+            this.tsmAbout.Click += new System.EventHandler(this.TsmAbout_Click);
             // 
             // lblNbrQuestion
             // 
@@ -223,7 +223,7 @@
             this.btnNewGame.TabIndex = 12;
             this.btnNewGame.Text = "btnNewGame";
             this.btnNewGame.UseVisualStyleBackColor = true;
-            this.btnNewGame.Click += new System.EventHandler(this.btnNewGame_Click);
+            this.btnNewGame.Click += new System.EventHandler(this.BtnNewGame_Click);
             // 
             // btnStartGame
             // 
@@ -252,8 +252,11 @@
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.lblNbrQuestion);
             this.Controls.Add(this.mstMain);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MainMenuStrip = this.mstMain;
+            this.MaximizeBox = false;
             this.Name = "CACView";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Country Capital";
             this.Load += new System.EventHandler(this.CACView_Load);
             this.mstMain.ResumeLayout(false);

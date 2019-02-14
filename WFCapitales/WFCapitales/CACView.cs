@@ -244,16 +244,18 @@ namespace WFCapitales
             UpdateView();
         }
 
-        private void btnNewGame_Click(object sender, EventArgs e)
+        private void BtnNewGame_Click(object sender, EventArgs e)
         {
             Controller.NewGame();
             UpdateView();
         }
 
-        private void tsmAbout_Click(object sender, EventArgs e)
+        private void TsmAbout_Click(object sender, EventArgs e)
         {
-            AboutView aboutView = new AboutView();
-            aboutView.ShowDialog();
+            using (AboutView aboutView = new AboutView())
+            {
+                aboutView.ShowDialog();
+            }
         }
     }
 }

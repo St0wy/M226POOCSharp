@@ -191,6 +191,11 @@ namespace WFCapitales
                     {
                         score += SCORE_ZERO_BAD_ANSWER;
                     }
+
+                    if (AreAllQuestionsAnswered(Questions))
+                    {
+                        GameEnd();
+                    }
                 }
                 else
                 {
@@ -203,6 +208,25 @@ namespace WFCapitales
             }
 
             return isAnswerGood;
+        }
+
+        private void GameEnd()
+        {
+
+        }
+
+        private bool AreAllQuestionsAnswered(GameQuestion[] questions)
+        {
+            bool areAllQuestionsAnswered = true;
+            foreach (GameQuestion question in questions)
+            {
+                if (!question.IsOver)
+                {
+                    areAllQuestionsAnswered = false;
+                }
+            }
+
+            return areAllQuestionsAnswered;
         }
 
         private void SelectAllAnswers(ref GameQuestion gameQuestion)
