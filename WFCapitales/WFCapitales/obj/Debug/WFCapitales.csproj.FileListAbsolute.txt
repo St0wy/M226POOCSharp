@@ -8,3 +8,14 @@ E:\Programmation\CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.csproj.Gen
 E:\Programmation\CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.csproj.CoreCompileInputs.cache
 E:\Programmation\CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.exe
 E:\Programmation\CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.pdb
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\bin\Debug\WFCapitales.exe.config
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\bin\Debug\WFCapitales.exe
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\bin\Debug\WFCapitales.pdb
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.csprojAssemblyReference.cache
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.AboutView.resources
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.CACView.resources
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.Properties.Resources.resources
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.csproj.GenerateResource.cache
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.csproj.CoreCompileInputs.cache
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.exe
+E:\Programmation\CSharp\Modules-POO-CSharp\WFCapitales\WFCapitales\obj\Debug\WFCapitales.pdb

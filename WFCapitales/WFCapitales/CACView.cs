@@ -252,7 +252,8 @@ namespace WFCapitales
 
         private void tsmAbout_Click(object sender, EventArgs e)
         {
-
+            AboutView aboutView = new AboutView();
+            aboutView.ShowDialog();
         }
     }
 }
