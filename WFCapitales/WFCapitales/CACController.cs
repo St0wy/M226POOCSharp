@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +16,7 @@ namespace WFCapitales
         private CACView view;
 
         //Properties
-        public CACView View { get => view; set => view = value; }
+        public CACView View { get => view; set => view = value; 
         internal CACModel Model { get => model; set => model = value; }
 
         //Constructors
