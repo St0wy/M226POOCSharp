@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WFFraction.Properties
+namespace WFSportMultiplex.Properties
 {
 
 

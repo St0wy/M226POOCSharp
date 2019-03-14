@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D523A107-2A4C-422A-ACF8-47186E23D04E}</ProjectGuid>
+    <ProjectGuid>{7192C13B-F064-4BFC-8196-3BA7C961F5F3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WFFraction</RootNamespace>
-    <AssemblyName>WFFraction</AssemblyName>
+    <RootNamespace>WFSportMultiplex</RootNamespace>
+    <AssemblyName>WFSportMultiplex</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

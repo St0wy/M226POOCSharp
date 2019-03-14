@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("WFFraction")]
+[assembly: AssemblyTitle("WFSportMultiplex")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WFFraction")]
+[assembly: AssemblyProduct("WFSportMultiplex")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("d523a107-2a4c-422a-acf8-47186e23d04e")]
+[assembly: Guid("7192c13b-f064-4bfc-8196-3ba7c961f5f3")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
